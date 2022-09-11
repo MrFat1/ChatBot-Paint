@@ -1,0 +1,520 @@
+pintame un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> azul <END>  <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y color <START:color> azul <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+dibuja un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pinta <START:figura> circulo <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> rojo <END> <START:relleno> con <END> relleno
+pinta <START:figura> circulo <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> rojo <END> <START:relleno> con <END> relleno
+pinta un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+crear  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+<START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+<START:figura> triangulo <END> <START:color> amarillo <END>
+<START:figura> circulo <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y color <START:color> azul <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pintar uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+dibujar uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+crear uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+haz uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+hacer uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+añade uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+añadir uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:relleno> con <END> relleno
+pintame uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+dibuja uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pinta uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pintar uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+dibujar uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+crear uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+haz uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+hacer uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+añade uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+añadir uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> <START:color> rojo <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> circulo <END> <START:color> rojo <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> circulo <END> <START:color> verde <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibuja uno  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+pinta uno  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar uno  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pinta <START:figura> cuadrado <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+pinta <START:figura> cuadrado <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> <START:color> azul <END> 
+dibuja un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+crear  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+crear uno  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+haz uno  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+hacer uno  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+añade uno  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+añadir uno  <START:figura> cuadrado <END><START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+<START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+<START:figura> cuadrado <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y color <START:color> azul <END>
+pintame uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+dibuja uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pinta <START:figura> circulo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> rojo <END>
+pinta <START:figura> circulo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> <START:color> rojo <END>
+pinta uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pintar  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pintar uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+dibujar  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+dibujar uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+crear  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+crear uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+haz uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+hacer uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+añade uno <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+añadir uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+nuevo   <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+<START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+<START:figura> triangulo <END> <START:color> amarillo <END> <START:relleno> con <END> relleno
+<START:figura> circulo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y color <START:color> azul <END>
+pintame uno  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+dibuja uno  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+pinta uno  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+pintar  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+pintar un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+dibujar  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+dibujar un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+crear  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+crear un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+haz un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+hacer un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+añade un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+añadir un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+nuevo   <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+<START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> y de color <START:color> azul <END>
+pintame un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+dibuja un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pinta un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pintar  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pintar un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+dibujar  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+dibujar un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+crear  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+crear un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+haz un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+hacer un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+añade un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+añadir un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+nuevo   <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+<START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END>
+pintame un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+dibuja un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+pinta un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+pintar  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+pintar un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+dibujar  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+dibujar un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+crear  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+crear un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+haz un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+hacer un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+añade un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+añadir un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+nuevo   <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+<START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> <START:color> azul <END>
+<START:figura> cuadrado <END> <START:color> rojo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+<START:figura> circulo <END> <START:color> rojo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+<START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+<START:figura> circulo <END> <START:color> verde <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+dibuja un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+crear  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+nuevo <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+pintame un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> y <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> y <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> y <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> y <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> azul <END>  <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END>  <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> azul <END>  <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y color <START:color> azul <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibuja un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pinta <START:figura> circulo <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> rojo <END> <START:relleno> con <END> relleno
+pinta <START:figura> circulo <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> rojo <END> <START:relleno> con <END> relleno
+pinta un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> circulo <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> triangulo <END> <START:color> amarillo <END>
+<START:figura> circulo <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y color <START:color> azul <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+haz uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+hacer uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+añade uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+añadir uno  <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> de color <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintame uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+dibuja uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pinta uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pintar uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+dibujar uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+crear uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+haz uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+hacer uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+añade uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+añadir uno  <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> <START:color> rojo <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> circulo <END> <START:color> rojo <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+<START:figura> circulo <END> <START:color> verde <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibuja uno  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+pinta uno  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintar uno  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pinta <START:figura> cuadrado <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+pinta <START:figura> cuadrado <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> <START:color> azul <END> 
+dibuja un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+crear  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+crear uno  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+haz uno  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+hacer uno  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+añade uno  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+añadir uno  <START:figura> cuadrado <END><START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+<START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+<START:figura> cuadrado <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y color <START:color> azul <END>
+pintame uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibuja uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> sin <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pinta <START:figura> circulo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> rojo <END>
+pinta <START:figura> circulo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> <START:color> rojo <END>
+pinta uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pintar  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pintar uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibujar  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibujar uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+crear  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+crear uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+haz uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+hacer uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+añade uno <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+añadir uno  <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+nuevo   <START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+<START:figura> circulo <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+<START:figura> triangulo <END> <START:color> amarillo <END> <START:relleno> con <END> relleno
+<START:figura> circulo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y color <START:color> azul <END>
+pintame uno  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+dibuja uno  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+pinta uno  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+pintar  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+pintar un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+dibujar  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+dibujar un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+crear  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+crear un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+haz un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+hacer un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+añade un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+añadir un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+nuevo   <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+<START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> y de color <START:color> azul <END>
+pintame un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibuja un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pinta un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pintar  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pintar un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibujar  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibujar un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+crear  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+crear un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+haz un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+hacer un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+añade un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+añadir un  <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+nuevo   <START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+<START:figura> cuadrado <END> de color <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pintame un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+dibuja un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+pinta un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+pintar  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+pintar un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+dibujar  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+dibujar un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+crear  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+crear un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+haz un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+hacer un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+añade un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+añadir un  <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+nuevo   <START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+<START:figura> cuadrado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END> <START:color> azul <END>
+<START:figura> cuadrado <END> <START:color> rojo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+<START:figura> circulo <END> <START:color> rojo <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+<START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+<START:figura> circulo <END> <START:color> verde <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+dibuja un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+crear  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+nuevo <START:figura> cuadrado <END> <START:color> azul <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> tamaño <START:lado> 56 <END>
+pintame un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> y <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> y <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> y <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> y <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> y <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> azul <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> azul <END>  <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END>  <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> azul <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> color <START:color> azul <END>
+dibuja un  <START:figura> cuadrado <END> color <START:color> azul <END>
+pinta un  <START:figura> cuadrado <END> color <START:color> azul <END> 
+pintar  <START:figura> cuadrado <END> color <START:color> azul <END> 
+pintar un  <START:figura> cuadrado <END> color <START:color> azul <END> 
+dibujar  <START:figura> cuadrado <END> color <START:color> azul <END> 
+dibujar un  <START:figura> cuadrado <END> color <START:color> azul <END> 
+crear  <START:figura> cuadrado <END> color <START:color> azul <END> 
+crear uno  <START:figura> cuadrado <END> color <START:color> azul <END>
+haz uno  <START:figura> cuadrado <END> color <START:color> azul <END> 
+hacer uno  <START:figura> cuadrado <END> color <START:color> azul <END> 
+añade uno  <START:figura> cuadrado <END> color <START:color> azul <END> 
+añadir uno  <START:figura> cuadrado <END> color <START:color> azul <END> 
+nuevo   <START:figura> cuadrado <END> color <START:color> azul <END>
+pintame un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> verde-azulado <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> verde-azulado <END>  <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END>  <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> verde-azulado <END> de lado <START:lado> 56 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> verde-azulado <END> <START:relleno> con <END> relleno
+pinta <START:figura> cuadrado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:color> verde-azulado <END>  <START:relleno> con <END> relleno
+dibuja un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END>  <START:relleno> con <END> relleno
+pinta un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintar  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintar un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+dibujar  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+dibujar un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+crear  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+crear un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+haz un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+hacer un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+añade un  <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+añadir un  <START:figura> cuadrado <END><START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+nuevo   <START:figura> cuadrado <END> <START:color> verde-azulado <END> de alto <START:alto> 66 <END> y largo <START:largo> 76 <END> en <START:x> 23 <END> <START:y> 15 <END> <START:relleno> con <END> relleno
+pintame un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibuja un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pinta un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pintar  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+pintar un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibujar  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+dibujar un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+crear  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+crear un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+haz un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+hacer un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+añade un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+añadir un  <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>
+nuevo   <START:figura> cuadrado <END> de color <START:color> verde-azulado <END> <START:relleno> con <END> relleno en <START:x> 23 <END> <START:y> 15 <END> de lado <START:lado> 56 <END>

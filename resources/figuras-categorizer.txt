@@ -1,0 +1,265 @@
+error    error
+saludo	 hola
+saludo   hola.
+saludo   Hola
+saludo   Buenas
+saludo   buenas
+saludo   Buenos dias
+saludo   Buenas tardes
+saludo   Buenas noches
+saludo   buenos dias
+saludo   buenas tardes
+saludo   buenas noches
+saludo   saludos
+saludo   hey
+saludo   hola?
+despedida	 adios
+despedida	 adios.
+despedida	 Adios
+despedida	 Hasta luego
+despedida	 hasta luego
+despedida	 gracias por todo
+despedida	 nos vemos
+despedida	 eso es todo
+despedida	 Eso es todo
+despedida	 No, gracias
+despedida	 no
+despedida	 No
+despedida	 no gracias
+despedida	 quit
+despedida	 cierra
+despedida	 cerrar
+despedida	 cancelar
+despedida	 close
+despedida	 stop
+despedida	 cancel
+ayuda    Ayuda
+ayuda	 ayuda
+ayuda	 ¿Que puedo hacer?
+ayuda	 que puedo hacer?
+ayuda	 necesito ayuda
+ayuda	 como pinto algo?
+ayuda	 ¿Como pinto?
+ayuda	 ¿como pinto?
+ayuda	 acciones disponibles
+ayuda-figuras	 ¿Que puedo pintar?
+ayuda-figuras	 que puedo pintar?
+ayuda-figuras	 ¿Que figuras hay?
+ayuda-figuras	 figuras disponibles
+ayuda-figuras	 puedo pintar un cudadrado?
+ayuda-figuras	 puedo pintar un
+ayuda-figuras	 lista de figuras
+ayuda-figuras	 figuras
+ayuda-figuras	 que figuras hay?
+pintar	 pintame un cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 pinta cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 pinta cuadrado en 23 15 azul  con relleno
+pintar	 dibuja un uadrado azul en 23 15 de lado 56 con relleno
+pintar	 pinta un cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 pintar cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 pintar un cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 dibujar  cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 dibujar un  cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 crear  cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 crear un  cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 haz un  cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 hacer un  cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 añade un  cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 añadir un  cuadradoazul en 23 15 de lado 56 con relleno
+pintar	 nuevo cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 cuadrado azul en 23 15 de lado 56 con relleno
+pintar	 cuadrado en 23 15 de lado 56 y color azul con relleno
+pintar	 triangulo amarillo
+pintar	 circulo en 23 15 de lado 56 y color azul con relleno
+pintar	 pintame un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 dibuja un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 pinta un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 pintar  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 pintar un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 dibujar  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 dibujar un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 crear  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 crear un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 haz un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 hacer un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 añade un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 añadir un  cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 nuevo   cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 cuadrado en 23 15 de lado 56 y de color azul con relleno
+pintar	 pintame un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 dibuja un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 pinta un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 pintar  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 pintar un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 dibujar  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 dibujar un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 crear  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 crear un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 haz un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 hacer un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 añade un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 añadir un  cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 nuevo   cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 cuadrado de color azul en 23 15 de lado 56 con relleno
+pintar	 pintame un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 dibuja un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 pinta un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 pintar  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 pintar un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 dibujar  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 dibujar un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 crear  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 crear un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 haz un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 hacer un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 añade un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 añadir un  cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 nuevo   cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 cuadrado en 23 15 de lado 56 azul con relleno
+pintar	 cuadrado rojo en 23 15 tamaño 56 con relleno
+pintar	 circulo rojo en 23 15 tamaño 56 con relleno
+pintar	 cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 circulo verde en 23 15 tamaño 56 con relleno
+pintar	 dibuja un  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 pinta un  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 pintar  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 pintar un  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 dibujar  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 dibujar un  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 crear  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 crear un  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 haz un  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 hacer un  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 añade un  cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 añadir un  cuadradoazul en 23 15 tamaño 56 con relleno
+pintar	 nuevo   cuadrado azul en 23 15 tamaño 56 con relleno
+pintar	 pintame un  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 pinta cuadrado sin relleno en 23 15 de lado 56 azul
+pintar	 pinta cuadrado sin relleno en 23 15 azul
+pintar	 dibuja un  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 pinta un  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 pintar  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 pintar un  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 dibujar  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 dibujar un  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 crear  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 crear un  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 haz un  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 hacer un  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 añade un  cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 añadir un  cuadradoazul sin relleno en 23 15 de lado 56
+pintar	 nuevo   cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 cuadrado azul sin relleno en 23 15 de lado 56
+pintar	 cuadrado sin relleno en 23 15 de lado 56 y color azul
+pintar	 pintame un  circulo azul sin relleno en 23 15 de lado 56
+pintar	 dibuja un  circulo azul sin relleno en 23 15 de lado 56
+pintar	 pinta circulo con relleno en 23 15 de lado 56 rojo
+pintar	 pinta circulo con relleno en 23 15 rojo
+pintar	 pinta un  circulo azul con relleno en 23 15 de lado 56
+pintar	 pintar  circulo azul con relleno en 23 15 de lado 56
+pintar	 pintar un  circulo azul con relleno en 23 15 de lado 56
+pintar	 dibujar  circulo azul con relleno en 23 15 de lado 56
+pintar	 dibujar un  circulo azul con relleno en 23 15 de lado 56
+pintar	 crear  circulo azul con relleno en 23 15 de lado 56
+pintar	 crear un  circulo azul con relleno en 23 15 de lado 56
+pintar	 haz un  circulo azul con relleno en 23 15 de lado 56
+pintar	 hacer un  circulo azul con relleno en 23 15 de lado 56
+pintar	 añade un  circulo azul con relleno en 23 15 de lado 56
+pintar	 añadir un  circulo azul con relleno en 23 15 de lado 56
+pintar	 nuevo   circulo azul con relleno en 23 15 de lado 56
+pintar	 circulo azul con relleno en 23 15 de lado 56
+pintar	 triangulo amarillo con relleno
+pintar	 circulo con relleno en 23 15 de lado 56 y color azul
+pintar	 pintame un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 dibuja un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 pinta un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 pintar  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 pintar un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 dibujar  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 dibujar un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 crear  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 crear un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 haz un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 hacer un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 añade un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 añadir un  cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 nuevo   cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 cuadrado con relleno en 23 15 de lado 56 y de color azul
+pintar	 pintame un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 dibuja un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 pinta un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 pintar  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 pintar un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 dibujar  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 dibujar un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 crear  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 crear un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 haz un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 hacer un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 añade un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 añadir un  cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 nuevo cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 cuadrado de color azul con relleno en 23 15 de lado 56
+pintar	 pintame un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 dibuja un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 pinta un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 pintar  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 pintar un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 dibujar  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 dibujar un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 crear  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 crear un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 haz un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 hacer un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 añade un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 añadir un  cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 nuevo cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 cuadrado con relleno en 23 15 de lado 56 azul
+pintar	 cuadrado rojo con relleno en 23 15 tamaño 56
+pintar	 circulo rojo con relleno en 23 15 tamaño 56
+pintar	 cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 circulo verde con relleno en 23 15 tamaño 56
+pintar	 dibuja un  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 pinta un  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 pintar  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 pintar un  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 dibujar  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 dibujar un  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 crear  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 crear un  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 haz un  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 hacer un  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 añade un  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 añadir un  cuadrado azul con relleno en 23 15 tamaño 56
+pintar	 nuevo cuadrado azul con relleno en 23 15 tamaño 56
+borrar   borra todas las figuras
+borrar   clear all
+borrar   clear
+borrar   limpiar
+borrar   limpia todo
+borrar   vacía el lienzo
+borrar   vacia el lienzo
+borrar   limpia el lienzo
+borrar   vaciar
+borrar   vaciar todo
+borrar   borra todo
+borrar   vacia todo
+borrar   borra el lienzo
+borrar   elimina todas las figuras
+borrar   elimina todo
+borrar   elimina las figuras
+colores  lista de colores
+colores  Lista de colores
+colores  muestrame todos los colores
+colores  que colores hay?
+colores  ¿Que colores hay?
+colores  colores disponibles
+colores  colores
+colores  quiero ver todos los colores
+colores  que color puedo elegir?
+colores  ¿que color puedo elegir?
+colores  enseñame los colores disponibles
+colores  muestrame los colores disponibles
+colores  todos los colores
+colores  de que colores puedo pintar?
+colores  ¿de que colores puedo pintar?
